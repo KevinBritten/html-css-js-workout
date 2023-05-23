@@ -1,21 +1,24 @@
 html {
-   font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
 }
 
 .box {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 200px;
-    height: 200px;
-    border: 40px solid #F97316;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 200px;
+  height: 200px;
+  border: 40px solid #f97316;
 }
 
 .header {
-    text-align: center;
+  text-align: center;
 }
 
 .arena {
-    border: 1px dotted olive;
-    height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px dotted olive;
+  height: 80vh;
 }
